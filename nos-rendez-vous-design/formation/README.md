@@ -14,9 +14,9 @@ description: Retrouvez les formations UX menées par l'équipe transverse.
 
 ### Accessibilité
 
-{% page-ref page="accessibilite/sensibilisation-a-laccessibilite.md" %}
+{% page-ref page="../../ressources-design/kit-accessibilite/accessibilite/sensibilisation-a-laccessibilite.md" %}
 
-{% page-ref page="accessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md" %}
+{% page-ref page="../../ressources-design/kit-accessibilite/accessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md" %}
 
 
 

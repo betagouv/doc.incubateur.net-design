@@ -29,7 +29,7 @@ Contactez l'équipe Designers Transverses pour une présentation sur les obligat
 
 ### **Comment faire ?**
 
-Ce guide est là pour vous accompagner dans cette démarche, petit à petit, tout au long de la vie de votre startup : se sensibiliser à l'accessibilité en phase d'investigation, mettre en place les bases les plus simples en phase de construction jusqu'à passer l'audit de conformité en phase de consolidation !
+Le Kit Accessibilité est là pour vous accompagner dans cette démarche, petit à petit, tout au long de la vie de votre startup : se sensibiliser à l'accessibilité en phase d'investigation, mettre en place les bases les plus simples en phase de construction jusqu'à passer l'audit de conformité en phase de consolidation !
 
 {% page-ref page="guide-pour-une-startup-detat-accessible/investigation.md" %}
 

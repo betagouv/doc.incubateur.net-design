@@ -28,7 +28,7 @@ Retrouvez les bonnes pratiques à mettre en place selon l'étape de vie de votre
 
 ### Formations
 
-{% page-ref page="../../nos-rendez-vous-design/formation/accessibilite/sensibilisation-a-laccessibilite.md" %}
+{% page-ref page="accessibilite/sensibilisation-a-laccessibilite.md" %}
 
 
 

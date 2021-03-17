@@ -36,7 +36,7 @@ Retrouvez [nos prochains événements](https://airtable.com/shr2PwnQ61buXwLxP) :
 
 {% page-ref page="../formation/design/tester-avec-vos-utilisateurs-a-distance.md" %}
 
-{% page-ref page="../formation/accessibilite/sensibilisation-a-laccessibilite.md" %}
+{% page-ref page="../../ressources-design/kit-accessibilite/accessibilite/sensibilisation-a-laccessibilite.md" %}
 
 
 
