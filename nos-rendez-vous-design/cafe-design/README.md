@@ -15,6 +15,12 @@ Retrouvez [nos prochains événements](https://airtable.com/shr2PwnQ61buXwLxP) :
 
 ### Évènements passés <a id="Caf&#xE9;s-pass&#xE9;e"></a>
 
+* [Faire le tri dans sa backlog](https://vimeo.com/524252175) : Découvrez la méthode Kano pour prioriser l'évolution de votre service : quelles sont les fonctionnalités indispensables pour vos utilisateurs ?
+* [Suivre une expérimentation](https://docs.google.com/presentation/d/13vTv3vtolVFNNdLMd3O6L_Y7fEBDt7Lz2L2XcNcOeoU/edit?usp=sharing) :  Comment suivre une expérimentation ? Quels supports préparer ? Comment choisir et mobiliser les testeurs ? Et surtout... comment mesurer les améliorations ?
+* Tri de cartes : Pour tout connaitre sur la méthode du tri de cartes avec des exemples en vrai !
+* Partage de méthodes de travail Figma/Sketch/Adobe XD
+* Applications mobiles accessibles : Découvrons les bonnes pratiques d'accessibilité pour les sites et applications mobiles avec des exemples. Pas besoin de s'y connaître en accessibilité pour assister à ce café.
+*  [Experience Map ](https://docs.google.com/presentation/d/1nYbsL7YR9zo63Qk7Pc1gezXGti3c45FMwxFe5J9U_YY/edit?usp=sharing):  Découvrez dans cet atelier ce qui se cache derrière le terme jargonneux de "l'experience map". On verra comment modéliser l'experience utilisateur liée à votre service, pour vous aider à mieux répondre aux besoins et contexte d'usage de vos utilisateurs.
 * [Faire des design sprints à Beta  ](https://docs.google.com/presentation/d/1X8ItL7yaR8dNZ9wVUJ3VQnf8LAZCa3hTBLetP2RTGsU/edit?usp=sharing)
 * [Observatoire des pratiques & accessibilité ](https://docs.google.com/presentation/d/1vjA-ltDAGeG_LMPKW5m-7hnix0QcOozzjUqRCXoQTPk/edit)
 * [REX Mon Suivi Psy](https://drive.google.com/file/d/1_1tgx2baAKrWgSRkXTKBsRV0KrWela5N/view?usp=sharing) et [REX SignalConso](https://docs.google.com/presentation/d/1loT0GeYnXP-AQkD_gW33t5oNvKsv-SNBxwrY536ae-o/edit?usp=sharing)
