@@ -16,7 +16,7 @@ Toutes les ressources et documents réalisés par l'équipe **Design Transverse*
 
 Découvrez les prochains sujets abordés ou les ressources de nos rendez-vous passés : 
 
-{% page-ref page="nos-rendez-vous-design/cafe-design/" %}
+{% page-ref page="nos-rendez-vous-design/cafe-design.md" %}
 
 {% page-ref page="nos-rendez-vous-design/formation/" %}
 

@@ -9,8 +9,7 @@
 
 ## Nos rendez-vous Design
 
-* [☕ Évènements Design](nos-rendez-vous-design/cafe-design/README.md)
-  * [Tests utilisateurs](nos-rendez-vous-design/cafe-design/tests-utilisateurs.md)
+* [☕ Évènements Design](nos-rendez-vous-design/cafe-design.md)
 * [💎 Formations](nos-rendez-vous-design/formation/README.md)
   * [Design](nos-rendez-vous-design/formation/design/README.md)
     * [Comprendre le rôle du design](nos-rendez-vous-design/formation/design/comprendre-le-role-du-design.md)

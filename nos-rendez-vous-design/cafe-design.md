@@ -35,14 +35,15 @@ Retrouvez [nos prochains événements](https://airtable.com/shr2PwnQ61buXwLxP) :
 * REX projet Mobilic
 * Design de service : les super pouvoirs des API
 * Faire des tests utilisateurs avec l'outil testapic
+* [Abécédaire des tests utilisateurs](https://docs.google.com/document/d/1PxJep9Uy0LRmIeevYK78FKiFWtAJIC_2ht151lbHudw/edit?usp=sharing)
 
 ### Formations passées
 
-{% page-ref page="../formation/design/comprendre-le-role-du-design.md" %}
+{% page-ref page="formation/design/comprendre-le-role-du-design.md" %}
 
-{% page-ref page="../formation/design/tester-avec-vos-utilisateurs-a-distance.md" %}
+{% page-ref page="formation/design/tester-avec-vos-utilisateurs-a-distance.md" %}
 
-{% page-ref page="../../ressources-design/kit-accessibilite/accessibilite/sensibilisation-a-laccessibilite.md" %}
+{% page-ref page="../ressources-design/kit-accessibilite/accessibilite/sensibilisation-a-laccessibilite.md" %}
 
 
 
