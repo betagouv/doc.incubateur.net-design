@@ -24,7 +24,7 @@ Découvrez les prochains sujets abordés ou les ressources de nos rendez-vous pa
 
 Découvrez les méthodologies du design grâce à notre boîte à outils, pensée pour des "non" professionnels de l'UX.
 
-{% page-ref page="ressources/boite-a-outils-ux.md" %}
+{% page-ref page="ressources/boite-a-outils-ux/" %}
 
 {% page-ref page="ressources/lecture-et-veille-ux/" %}
 
