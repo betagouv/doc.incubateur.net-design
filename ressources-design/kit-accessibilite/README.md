@@ -28,9 +28,7 @@ Retrouvez les bonnes pratiques à mettre en place selon l'étape de vie de votre
 
 ### Formations
 
-{% page-ref page="accessibilite/sensibilisation-a-laccessibilite.md" %}
-
-
+{% page-ref page="accessibilite/" %}
 
 Si ces formations vous intéressent pour votre équipe, faites la demande sur **\#incubateur-designers-transverses** 
 

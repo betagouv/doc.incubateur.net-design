@@ -34,7 +34,7 @@
     * [Construction](ressources-design/kit-accessibilite/guide-pour-une-startup-detat-accessible/construction.md)
     * [Accélération](ressources-design/kit-accessibilite/guide-pour-une-startup-detat-accessible/acceleration.md)
     * [Consolidation](ressources-design/kit-accessibilite/guide-pour-une-startup-detat-accessible/consolidation.md)
-  * [Ateliers Accessibilité](ressources-design/kit-accessibilite/accessibilite/README.md)
+  * [Formations Accessibilité](ressources-design/kit-accessibilite/accessibilite/README.md)
     * [Sensibilisation à l'accessibilité](ressources-design/kit-accessibilite/accessibilite/sensibilisation-a-laccessibilite.md)
     * [10 choses faciles à vérifier pour un site plus accessible](ressources-design/kit-accessibilite/accessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md)
     * [Applications mobiles accessibles](ressources-design/kit-accessibilite/accessibilite/des-applications-mobiles-accessibles.md)
