@@ -8,11 +8,11 @@
 
 {% embed url="https://docs.google.com/presentation/d/1C2Wnhn00P-CSLQp7HFzVsryrYvQfoMtqf6enZJdDrho/edit\#slide=id.gbc8e652e81\_0\_0" %}
 
-
+[Support de présentation](https://docs.google.com/presentation/d/1C2Wnhn00P-CSLQp7HFzVsryrYvQfoMtqf6enZJdDrho/edit#slide=id.gbf200425fd_0_0)
 
 ## La méthode Kano
 
-La méthode Kano permet d’identifier les fonctionnalités **qui apportent de la valeur aux utilisateurs.** C'est une méthodo qui est utile durant tout le cycle de vie d'un projet, notamment :
+La méthode Kano permet d’identifier les fonctionnalités **qui apportent de la valeur aux utilisateurs.** C'est une méthodologie qui est utile durant tout le cycle de vie d'un projet, notamment :
 
 * en phase de construction, pour définir un MVP \(Minimum Viable Product\) pertinent ;
 * en phase d'accélération pour investir ses ressources à bon escient.
@@ -25,18 +25,23 @@ La méthode Kano se base sur deux principes clés :
 Pour cela, on demande à l'utilisateur de se situer sur deux échelles :
 
 * Aujourd’hui, notre service est comme _&lt;ceci&gt;_...
+
+![](../../.gitbook/assets/image%20%289%29.png)
+
 * Et si notre service vous permettait de faire &lt;_cela&gt;_ ?
 
-TODO Capture échelles
+![](../../.gitbook/assets/image%20%282%29.png)
+
+
 
 Par exemple :
 
-* Aujourd'hui...
-* Et si... TODO audioconf
+* Actuellement, AudioConf permet de réserver un numéro de conférence à la fois. Il n'est pas possible de réserver de numéros à l'avance.
+* Et si AudioConf vous permettait de conserver le même numéro pour un rendez-vous hebdomadaire ?
 
 Les réponses de l'utilisateur vont permettre de catégoriser les fonctionnalités :
 
-TODO tableau
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 1. **🥇 Les fonctionnalités indispensables :** elles constituent la base pour un MVP complet. Leur présence n’augmente pas la satisfaction utilisateur mais leur absence à un impact très négatif.
 2. **💪 Les fonctionnalités performantes :** plus y en a, mieux c’est.
@@ -77,7 +82,17 @@ L'analyse des données dépend du nombre de réponses et de fonctionnalités ét
 * Manuellement : facile à mettre en place, et réalisable quand on a moins de 20 personnes interrogées. Il suffit d'utiliser le tableau à double entrée pour identifier à quelle catégorie une fonctionnalité est le plus souvent associée.
 * Statistiquement : via une pondération de points pour chaque réponses, une analyse statistique permet de placer les fonctionnalités sur un graphe.
 
-TODO: image graphe.
+![](../../.gitbook/assets/image%20%281%29.png)
+
+### Prioriser les fonctionnalités
+
+Avec les résultats, on peut alors identifier quelles fonctionnalités implémenter en premier : 
+
+1. D'abord les fonctionnalités indispensable
+2. Puis les fonctionnalités performantes
+3. Enfin les fonctionnalités attractives
+
+![](../../.gitbook/assets/image%20%284%29.png)
 
 ## Retour d'expérience
 
@@ -89,17 +104,19 @@ AudioConf est un service de conférences téléphoniques pour les agents publics
 
 Nous avons d'abord identifié 8 fonctionnalités, via les retours utilisateurs ou des idées internes.
 
-TODO exemple de avec/sans
+![8 fonctionnalit&#xE9;s r&#xE9;parties en 2 grandes cat&#xE9;gories : am&#xE9;liorer la r&#xE9;servation et am&#xE9;liorer la mod&#xE9;ration.](../../.gitbook/assets/image%20%287%29.png)
 
 ### Identifier les utilisateurs
 
 Nous avons ensuite décidé de cibler les utilisateurs actifs. Pour cela, nous avons mis en ligne pendant 2 semaines un lien vers le questionnaire sur la page d'accueil :
 
-TODO image
+![Ajout d&apos;un bouton &quot;Donner mon avis&quot; sur la page d&apos;accueil](../../.gitbook/assets/image%20%285%29.png)
 
 ### Interroger les utilisateurs
 
-Le questionnaire en ligne contenait 16 questions \(2 pour chacune des 8 fonctionnalités\). Par exemple TODO. Il se terminait aussi par 2 champs libres \(qu'est-ce qui vous plaît / qu'est-ce qui vous déplaît\) qui nous a permi de consolider les réponses avec des verbatims.
+Le questionnaire en ligne contenait 16 questions \(2 pour chacune des 8 fonctionnalités\). Il se terminait aussi par 2 champs libres \(qu'est-ce qui vous plaît / qu'est-ce qui vous déplaît\) qui nous a permi de consolider les réponses avec des verbatims.
+
+![Extrait du questionnaire en ligne](../../.gitbook/assets/image%20%288%29.png)
 
 SI nous avions eu une connaissance plus fines de nos utilisateurs, nous aurions voulu rajouter des questions permettant de définir le profil des répondants. Par exemple, un enseignant a potentiellement des envies différentes d'un agent public travaillant au sein d'un ministère.
 
@@ -107,7 +124,11 @@ SI nous avions eu une connaissance plus fines de nos utilisateurs, nous aurions 
 
 À partir de 50 réponses, les données ont commencé à moins varier. Nous nous sommes cependant arrêté à 106 réponses \(en 2 semaines\).
 
+![](../../.gitbook/assets/image%20%283%29.png)
+
 L'analyse des résultats nous a montré ceci :
+
+![](../../.gitbook/assets/image%20%286%29.png)
 
 * 2 fonctionnalités attractives : Réserver un numéro récurrent et Avoir accès à un tableau de bord pendant la conférence
 * Plusieurs fonctionnalités inutiles

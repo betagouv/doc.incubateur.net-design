@@ -55,6 +55,12 @@ description: >-
 **Présentation** [**10 choses faciles à vérifier pour un service plus accessible**](https://docs.google.com/presentation/d/1gYczL-NsVCDl-u0nUHR7pdFxUdjD9puEC3NVOFQE7-4/edit?usp=sharing)\*\*\*\*
 {% endhint %}
 
+### Prioriser les fonctionnalités
+
+{% hint style="success" %}
+\*\*\*\*[**Prioriser les fonctionnalités grâce aux retours utilisateurs**](https://doc.incubateur.net/design/ressources/boite-a-outils-ux/prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs)\*\*\*\*
+{% endhint %}
+
 ### Cartographier l'expérience utilisateur \(Experience map\)
 
 [ Présentation de la méthode](https://docs.google.com/presentation/d/1nYbsL7YR9zo63Qk7Pc1gezXGti3c45FMwxFe5J9U_YY/edit?usp=sharing)
