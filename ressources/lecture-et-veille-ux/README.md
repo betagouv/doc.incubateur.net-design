@@ -21,6 +21,7 @@ Plus de conseils de[ livres sur l'UX ](https://blocnotes.iergo.fr/breve/bibliogr
 * [Blocnotes iErgo](https://blocnotes.iergo.fr) - Par Raphaël Yharrassarry, de nombreux articles sur des méthodologies ou sur le design en général.
 * [Newflux](https://newflux.fr/) \(fr\) - Site d'information dédié à l'UX.
 * [Nielsen/Norman](https://www.nngroup.com/articles/) \(en\) - actualité de l'agence référente dans le domaine.
+* [Blog UX Designer](https://bloguxdesigner.fr/) \(fr\) - Par Valentino Puleo, des articles sur l'expérience utilisateur et le design.
 
 ### Design de services
 
