@@ -11,6 +11,7 @@
 
 * [☕ Évènements Design](nos-rendez-vous-design/cafe-design.md)
 * [💎 Formations](nos-rendez-vous-design/formation/README.md)
+  * [Formation UX Saison 1](nos-rendez-vous-design/formation/formation-ux-saison-1.md)
   * [Design](nos-rendez-vous-design/formation/design/README.md)
     * [Comprendre le rôle du design](nos-rendez-vous-design/formation/design/comprendre-le-role-du-design.md)
     * [Tester avec vos utilisateurs \(à distance\)](nos-rendez-vous-design/formation/design/tester-avec-vos-utilisateurs-a-distance.md)
