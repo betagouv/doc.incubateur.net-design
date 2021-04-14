@@ -39,7 +39,7 @@ Retrouvez [nos prochains événements](https://airtable.com/shr2PwnQ61buXwLxP) :
 
 ### Formations passées
 
-{% page-ref page="../comprendre-le-role-du-design.md" %}
+{% page-ref page="../design/comprendre-le-role-du-design.md" %}
 
 {% page-ref page="../ressources/boite-a-outils-ux/tester-avec-vos-utilisateurs-a-distance.md" %}
 

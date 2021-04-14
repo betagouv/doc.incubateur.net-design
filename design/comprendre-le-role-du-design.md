@@ -6,7 +6,7 @@ description: Comment bien utiliser un designer dans un projet ?
 
 {% embed url="https://vimeo.com/415190106" caption="Vidéo-conférence de la formation sur le rôle du design" %}
 
-{% file src=".gitbook/assets/le-ro-le-du-design.pdf" caption="Présentation sur le rôle du design" %}
+{% file src="../.gitbook/assets/le-ro-le-du-design.pdf" caption="Présentation sur le rôle du design" %}
 
 1. Un designer, ça fait quoi ? Comment peut-il aider à faire progresser un projet, comment il va accompagner la prise ne compte des utilisateurs finaux ? Nous allons essayer de répondre à ces questions.
 2. Je vous propose une définition personnelle du design et l’expérience utilisateur : « Concevoir des services qui répondent aux besoins des utilisateurs finaux et leur apportent satisfaction. ». Les points importants sont donc l’utilisateur final qui va être au cœur de la démarche et la prise en compte d’un certain nombre de critères pour mesurer l’expérience de celui-ci.
