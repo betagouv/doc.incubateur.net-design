@@ -11,17 +11,17 @@ description: >-
 
 ### Le support de la présentation
 
-{% file src="../../../.gitbook/assets/entretiens-avec-vos-utilisateurs.pdf" caption="Support de présentation" %}
+{% file src="../../.gitbook/assets/entretiens-avec-vos-utilisateurs.pdf" caption="Support de présentation" %}
 
 ### Les outils
 
 Un modèle de persona dont vous pouvez vous inspirer pour créer le votre.
 
-{% file src="../../../.gitbook/assets/persona-kelrisk.pdf" caption="Modèles de persona" %}
+{% file src="../../.gitbook/assets/persona-kelrisk.pdf" caption="Modèles de persona" %}
 
 Un [jeu de carte permettant](https://blocnotes.iergo.fr/concevoir/les-outils/jeu-de-cartes-pour-parcours-utilisateurs/) de décrire un parcours utilisateurs avec ses points forts et points faibles à imprimer sur des cartes de visites prédécoupées ou à découper.
 
-{% file src="../../../.gitbook/assets/carte-ux-pour-impression-vf.pdf" %}
+{% file src="../../.gitbook/assets/carte-ux-pour-impression-vf.pdf" %}
 
 L'article et les cartes pour faciliter un entretien sur des processus professionels : [https://www.creativejuiz.fr/blog/ressources-telechargements/user-task-canvas-collecter-activites-taches-utilisateurs](https://www.creativejuiz.fr/blog/ressources-telechargements/user-task-canvas-collecter-activites-taches-utilisateurs)
 

@@ -6,7 +6,7 @@ description: >-
 
 # Tester avec vos utilisateurs \(à distance\)
 
-{% file src="../../../.gitbook/assets/tester-avec-vos-utilisateurs-a-distance-.pdf" caption="Présentation : Tester avec vos utilisateurs" %}
+{% file src="../../.gitbook/assets/tester-avec-vos-utilisateurs-a-distance-.pdf" caption="Présentation : Tester avec vos utilisateurs" %}
 
 Chapitre 1 : Déontologie et recrutement 
 
