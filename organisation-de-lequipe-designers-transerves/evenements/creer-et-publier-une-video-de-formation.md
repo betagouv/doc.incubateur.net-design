@@ -4,7 +4,7 @@ description: >-
   accessibles en optimisant le processus de production au mieux.
 ---
 
-# Créer et publier une vidéo de formation
+# Créer et publier une vidéo d'un événement
 
 ### Préparer
 

@@ -1,5 +1,5 @@
 ---
-description: Ou comment bien utiliser un designer dans un projet ?
+description: Comment bien utiliser un designer dans un projet ?
 ---
 
 # Comprendre le rôle du design

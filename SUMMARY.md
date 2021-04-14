@@ -56,7 +56,7 @@
 
 ## Organisation <a id="organisation-de-lequipe-designers-transerves"></a>
 
-* [Événéments](organisation-de-lequipe-designers-transerves/evenements/README.md)
+* [🗓 Événements](organisation-de-lequipe-designers-transerves/evenements/README.md)
   * [Communiquer sur un événement](organisation-de-lequipe-designers-transerves/evenements/communiquer-sur-un-evenement.md)
-  * [Créer et publier une vidéo de formation](organisation-de-lequipe-designers-transerves/evenements/creer-et-publier-une-video-de-formation.md)
+  * [Créer et publier une vidéo d'un événement](organisation-de-lequipe-designers-transerves/evenements/creer-et-publier-une-video-de-formation.md)
 

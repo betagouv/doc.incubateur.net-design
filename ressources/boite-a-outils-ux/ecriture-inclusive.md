@@ -1,10 +1,12 @@
 ---
-description: Écriture inclusive sans point médian
+description: >-
+  Guide pratique pour utiliser l'écriture inclusive sans point médian dans son
+  produit
 ---
 
 # Écriture inclusive
 
-{% embed url="https://docs.google.com/presentation/d/17q4qwcNZ2L5eYTnrxGxgWNciMi8txENP4Am84kqfQEY/edit\#slide=id.gc96a127e91\_0\_210" %}
+{% embed url="https://vimeo.com/536388165" %}
 
 {% hint style="success" %}
 Voir le [support de présentation](https://docs.google.com/presentation/d/17q4qwcNZ2L5eYTnrxGxgWNciMi8txENP4Am84kqfQEY/edit#slide=id.gc96a127e91_0_210).
@@ -29,9 +31,9 @@ Effectivement, le point médian pose plusieurs problèmes :
 * Difficultés de lecture \(développ·eurs·euses = développeureuses ?\)
 * Difficulté de saisie \(ami.es est plus facile à écrire que ami·e·s\)
 * Pas de norme d’usage \(combien de points ? lequel ? où ?\)
-* ...
+* etc.
 
-Heureusement, il existe de nombreuses autres méthodes plus subtiles.
+Heureusement, il existe de nombreuses autres méthodes, plus subtiles.
 
 ## 7 techniques sans point médian
 
@@ -112,7 +114,7 @@ Exemples :
 
 Inconvénients : 
 
-* La parenthèse envoie un message contraire à celui qu’on veut faire passer.
+* La parenthèse n'est pas une méthode recommandée : elle envoie un message contraire à celui qu’on veut faire passer. Mais c'est une méthoque utilisée depuis longtemps \(sur nos papiers d'identités par exemple\) et que les gens connaissent bien.
 * La barre oblique coupe les phrases \(mais fonctionne bien sur un libellé court\).
 
 ### L’accord de majorité 

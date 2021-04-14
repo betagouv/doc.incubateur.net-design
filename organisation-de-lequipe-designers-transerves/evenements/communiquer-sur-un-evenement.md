@@ -1,7 +1,7 @@
 ---
 description: >-
   Comment communiquer sur un événement organisé par l'équipe Designers
-  Transverses
+  Transverses.
 ---
 
 # Communiquer sur un événement
