@@ -16,9 +16,10 @@
 ## Méthodes du design <a id="ressources"></a>
 
 * [📦 Boîte à outils UX](ressources/boite-a-outils-ux/README.md)
+  * [Auditer l'expérience utilisateur de son service](ressources/boite-a-outils-ux/auditer-lexperience-utilisateur-de-son-service.md)
   * [Écriture inclusive](ressources/boite-a-outils-ux/ecriture-inclusive.md)
-  * [Prioriser les fonctionnalités grâce aux retours utilisateurs](ressources/boite-a-outils-ux/prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)
   * [Mesurer l'UX avec un questionnaire](ressources/boite-a-outils-ux/mesurer-lux-avec-un-questionnaire.md)
+  * [Prioriser les fonctionnalités grâce aux retours utilisateurs](ressources/boite-a-outils-ux/prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)
   * [Réaliser des entretiens avec vos utilisateurs](ressources/boite-a-outils-ux/realiser-des-entretiens-avec-vos-utilisateurs.md)
   * [Tester avec vos utilisateurs \(à distance\)](ressources/boite-a-outils-ux/tester-avec-vos-utilisateurs-a-distance.md)
 * [📚 Bibliographie UX](ressources/lecture-et-veille-ux.md)
