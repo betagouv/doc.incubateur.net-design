@@ -26,7 +26,7 @@ Découvrez les méthodologies du design grâce à notre boîte à outils, pensé
 
 {% page-ref page="ressources/boite-a-outils-ux/" %}
 
-{% page-ref page="ressources/lecture-et-veille-ux/" %}
+{% page-ref page="ressources/lecture-et-veille-ux.md" %}
 
 ### Ressources
 

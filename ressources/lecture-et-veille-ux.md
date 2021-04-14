@@ -1,4 +1,4 @@
-# 📚 Lecture et veille UX
+# 📚 Bibliographie UX
 
 ## Des livres \(qu'on peut prêter\)
 

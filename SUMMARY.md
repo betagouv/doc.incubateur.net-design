@@ -26,8 +26,7 @@
   * [Mesurer l'UX avec un questionnaire](ressources/boite-a-outils-ux/mesurer-lux-avec-un-questionnaire.md)
   * [Écriture inclusive](ressources/boite-a-outils-ux/ecriture-inclusive.md)
   * [Prioriser les fonctionnalités grâce aux retours utilisateurs](ressources/boite-a-outils-ux/prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)
-* [📚 Lecture et veille UX](ressources/lecture-et-veille-ux/README.md)
-  * [Notre veille design et d'UX](ressources/lecture-et-veille-ux/notre-veille-design-et-dux.md)
+* [📚 Bibliographie UX](ressources/lecture-et-veille-ux.md)
 
 ## Ressources <a id="ressources-design"></a>
 
