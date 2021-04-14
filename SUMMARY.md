@@ -16,7 +16,6 @@
     * [Comprendre le rôle du design](nos-rendez-vous-design/formation/design/comprendre-le-role-du-design.md)
     * [Tester avec vos utilisateurs \(à distance\)](nos-rendez-vous-design/formation/design/tester-avec-vos-utilisateurs-a-distance.md)
     * [Réaliser des entretiens avec vos utilisateurs](nos-rendez-vous-design/formation/design/realiser-des-entretiens-avec-vos-utilisateurs.md)
-  * [Créer et publier une vidéo de formation](nos-rendez-vous-design/formation/creer-et-publier-une-video-de-formation.md)
 
 ## Méthodes du design <a id="ressources"></a>
 
@@ -54,4 +53,10 @@
 ---
 
 * [Statistiques 📊](statistiques.md)
+
+## Organisation <a id="organisation-de-lequipe-designers-transerves"></a>
+
+* [Événéments](organisation-de-lequipe-designers-transerves/evenements/README.md)
+  * [Communiquer sur un événement](organisation-de-lequipe-designers-transerves/evenements/communiquer-sur-un-evenement.md)
+  * [Créer et publier une vidéo de formation](organisation-de-lequipe-designers-transerves/evenements/creer-et-publier-une-video-de-formation.md)
 

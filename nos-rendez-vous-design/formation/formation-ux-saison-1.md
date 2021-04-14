@@ -1,5 +1,5 @@
 ---
-description: Les supports des formations données dans le cadres des Designers transverses
+description: Supports des formations données dans le cadre des Designers Transverses.
 ---
 
 # Formation UX Saison 1
