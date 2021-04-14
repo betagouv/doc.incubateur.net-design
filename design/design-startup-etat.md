@@ -47,7 +47,7 @@ Un designer transverse ne peut pas se substituer à un designer que vous recrute
 
 ### Partager autour du design 😊
 
-Rejoignez [**\#domaine-ux**](https://startups-detat.slack.com/messages/domaine-ux), la chaîne partagée entre les différents incubateurs de betagouv pour :
+Rejoignez [**\#domaine-design**](https://app.slack.com/client/T04C2PSNY/domaine-design), la chaîne partagée entre les différents incubateurs de betagouv pour :
 
 * parler design 
 * partager votre veille 
