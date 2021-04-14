@@ -6,7 +6,7 @@
 
 * [☝️ Du design pour ma Startup d’État](design/design-startup-etat.md)
 * [🐙 Les compétences du design](design/les-competences-du-design.md)
-* [Comprendre le rôle du design](design/comprendre-le-role-du-design.md)
+* [💡Comprendre le rôle du design](design/comprendre-le-role-du-design.md)
 
 ## Nos rendez-vous Design
 
