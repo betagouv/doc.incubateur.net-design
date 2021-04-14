@@ -6,7 +6,7 @@ description: Retrouvez les formations UX menées par l'équipe transverse.
 
 ### Design
 
-{% page-ref page="design/comprendre-le-role-du-design.md" %}
+{% page-ref page="../../comprendre-le-role-du-design.md" %}
 
 {% page-ref page="design/tester-avec-vos-utilisateurs-a-distance.md" %}
 

@@ -7,13 +7,16 @@
 * [☝️ Du design pour ma Startup d’État](design/design-startup-etat.md)
 * [🐙 Les compétences du design](design/les-competences-du-design.md)
 
+---
+
+* [Comprendre le rôle du design](comprendre-le-role-du-design.md)
+
 ## Nos rendez-vous Design
 
 * [☕ Évènements Design](nos-rendez-vous-design/cafe-design.md)
 * [💎 Formations](nos-rendez-vous-design/formation/README.md)
   * [Formation UX Saison 1](nos-rendez-vous-design/formation/formation-ux-saison-1.md)
   * [Design](nos-rendez-vous-design/formation/design/README.md)
-    * [Comprendre le rôle du design](nos-rendez-vous-design/formation/design/comprendre-le-role-du-design.md)
     * [Tester avec vos utilisateurs \(à distance\)](nos-rendez-vous-design/formation/design/tester-avec-vos-utilisateurs-a-distance.md)
     * [Réaliser des entretiens avec vos utilisateurs](nos-rendez-vous-design/formation/design/realiser-des-entretiens-avec-vos-utilisateurs.md)
 
