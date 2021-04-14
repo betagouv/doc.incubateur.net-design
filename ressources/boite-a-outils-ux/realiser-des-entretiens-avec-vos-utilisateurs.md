@@ -9,6 +9,14 @@ description: >-
 
 {% embed url="https://vimeo.com/451815372" %}
 
+{% hint style="success" %}
+**Présentation** [**Entretiens utilisateurs**](https://docs.google.com/presentation/d/16XIfoFA5JYSnZZB-eomy22k8RlRo7qXnAakGZ0bpNO0/edit#slide=id.g73cc8a2fd8_0_101) **pour s'auto-former à :** 
+
+* organiser des entretiens exploratoires
+* animer un entretien
+* analyser les résultats
+{% endhint %}
+
 ### Le support de la présentation
 
 {% file src="../../.gitbook/assets/entretiens-avec-vos-utilisateurs.pdf" caption="Support de présentation" %}
