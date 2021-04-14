@@ -18,7 +18,7 @@ Découvrez les prochains sujets abordés ou les ressources de nos rendez-vous pa
 
 {% page-ref page="nos-rendez-vous-design/cafe-design.md" %}
 
-{% page-ref page="nos-rendez-vous-design/formation/" %}
+{% page-ref page="nos-rendez-vous-design/formation.md" %}
 
 ### Méthodes du design
 

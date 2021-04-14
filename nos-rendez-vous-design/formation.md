@@ -10,15 +10,15 @@ L'équipe des designers transverses propose des formations sur différentes thé
 
 ### Supports des formations UX
 
-{% file src="../../.gitbook/assets/formation-s1e1-ergo-psycho-biais.pdf" caption="Ergonomie, psychologie cognitive, les bases de l\'UX" %}
+{% file src="../.gitbook/assets/formation-s1e1-ergo-psycho-biais.pdf" caption="Ergonomie, psychologie cognitive, les bases de l\'UX" %}
 
-{% file src="../../.gitbook/assets/bien-connaitre-ses-utlisateurs.pdf" caption="Bien connaitre ses utilisateurs" %}
+{% file src="../.gitbook/assets/bien-connaitre-ses-utlisateurs.pdf" caption="Bien connaitre ses utilisateurs" %}
 
 ### Accessibilité
 
-{% page-ref page="../../ressources-design/kit-accessibilite/accessibilite/sensibilisation-a-laccessibilite.md" %}
+{% page-ref page="../ressources-design/kit-accessibilite/accessibilite/sensibilisation-a-laccessibilite.md" %}
 
-{% page-ref page="../../ressources-design/kit-accessibilite/accessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md" %}
+{% page-ref page="../ressources-design/kit-accessibilite/accessibilite/10-choses-faciles-a-verifier-pour-un-site-plus-accessible.md" %}
 
 #### Bientôt...
 

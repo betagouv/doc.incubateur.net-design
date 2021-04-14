@@ -11,8 +11,7 @@
 ## Nos rendez-vous Design
 
 * [☕ Évènements Design](nos-rendez-vous-design/cafe-design.md)
-* [💎 Formations](nos-rendez-vous-design/formation/README.md)
-  * [Formation UX Saison 1](nos-rendez-vous-design/formation/formation-ux-saison-1.md)
+* [💎 Formations](nos-rendez-vous-design/formation.md)
 
 ## Méthodes du design <a id="ressources"></a>
 
