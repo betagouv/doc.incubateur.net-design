@@ -42,19 +42,15 @@
   * [Utiliser le Design System de l'État](ressources-design/design-system-etat/utiliser-le-design-system-de-letat.md)
   * [La marque de l'État](ressources-design/design-system-etat/la-marque-de-letat.md)
   * [Le bloc marque](ressources-design/design-system-etat/le-bloc-marque.md)
-* [✨ Réalisations](ressources-design/maquette-et-kits-ui.md)
 * [📝 Outils pour UX designers](ressources-design/outils-pour-ux-designers.md)
 * [🔨 Outils pour UI designers](ressources-design/outils-pour-designers/README.md)
   * [🖼 Banque d'illustrations](ressources-design/outils-pour-designers/banque-dillustration-betagouv/README.md)
     * [BetaGouv](ressources-design/outils-pour-designers/banque-dillustration-betagouv/le-logo-betagouv.md)
-
----
-
-* [Statistiques 📊](statistiques.md)
 
 ## Organisation <a id="organisation-de-lequipe-designers-transerves"></a>
 
 * [🗓 Événements](organisation-de-lequipe-designers-transerves/evenements/README.md)
   * [Communiquer sur un événement](organisation-de-lequipe-designers-transerves/evenements/communiquer-sur-un-evenement.md)
   * [Créer et publier une vidéo d'un événement](organisation-de-lequipe-designers-transerves/evenements/creer-et-publier-une-video-de-formation.md)
+* [📊 Statistiques](organisation-de-lequipe-designers-transerves/statistiques.md)
 

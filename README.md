@@ -36,8 +36,6 @@ Découvrez les méthodologies du design grâce à notre boîte à outils, pensé
 
 {% page-ref page="ressources-design/outils-pour-designers/banque-dillustration-betagouv/" %}
 
-{% page-ref page="ressources-design/maquette-et-kits-ui.md" %}
-
 {% page-ref page="ressources-design/outils-pour-ux-designers.md" %}
 
 {% page-ref page="ressources-design/outils-pour-designers/" %}
