@@ -8,9 +8,9 @@ description: Retrouvez les formations UX menées par l'équipe transverse.
 
 {% page-ref page="../../comprendre-le-role-du-design.md" %}
 
-{% page-ref page="tester-avec-vos-utilisateurs-a-distance.md" %}
+{% page-ref page="../../ressources/boite-a-outils-ux/tester-avec-vos-utilisateurs-a-distance.md" %}
 
-{% page-ref page="realiser-des-entretiens-avec-vos-utilisateurs.md" %}
+{% page-ref page="../../ressources/boite-a-outils-ux/realiser-des-entretiens-avec-vos-utilisateurs.md" %}
 
 ### Accessibilité
 

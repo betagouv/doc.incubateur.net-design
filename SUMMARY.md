@@ -16,13 +16,12 @@
 * [☕ Évènements Design](nos-rendez-vous-design/cafe-design.md)
 * [💎 Formations](nos-rendez-vous-design/formation/README.md)
   * [Formation UX Saison 1](nos-rendez-vous-design/formation/formation-ux-saison-1.md)
-  * [Tester avec vos utilisateurs \(à distance\)](nos-rendez-vous-design/formation/tester-avec-vos-utilisateurs-a-distance.md)
-  * [Réaliser des entretiens avec vos utilisateurs](nos-rendez-vous-design/formation/realiser-des-entretiens-avec-vos-utilisateurs.md)
-  * [Design](nos-rendez-vous-design/formation/design.md)
 
 ## Méthodes du design <a id="ressources"></a>
 
 * [📦 Boîte à outils UX](ressources/boite-a-outils-ux/README.md)
+  * [Réaliser des entretiens avec vos utilisateurs](ressources/boite-a-outils-ux/realiser-des-entretiens-avec-vos-utilisateurs.md)
+  * [Tester avec vos utilisateurs \(à distance\)](ressources/boite-a-outils-ux/tester-avec-vos-utilisateurs-a-distance.md)
   * [Mesurer l'UX avec un questionnaire](ressources/boite-a-outils-ux/mesurer-lux-avec-un-questionnaire.md)
   * [Écriture inclusive](ressources/boite-a-outils-ux/ecriture-inclusive.md)
   * [Prioriser les fonctionnalités grâce aux retours utilisateurs](ressources/boite-a-outils-ux/prioriser-les-fonctionnalites-grace-aux-retours-utilisateurs.md)

@@ -41,7 +41,7 @@ Retrouvez [nos prochains événements](https://airtable.com/shr2PwnQ61buXwLxP) :
 
 {% page-ref page="../comprendre-le-role-du-design.md" %}
 
-{% page-ref page="formation/tester-avec-vos-utilisateurs-a-distance.md" %}
+{% page-ref page="../ressources/boite-a-outils-ux/tester-avec-vos-utilisateurs-a-distance.md" %}
 
 {% page-ref page="../ressources-design/kit-accessibilite/accessibilite/sensibilisation-a-laccessibilite.md" %}
 
