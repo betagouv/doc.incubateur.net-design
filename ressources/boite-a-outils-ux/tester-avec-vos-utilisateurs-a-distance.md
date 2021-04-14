@@ -20,7 +20,17 @@ Chapitre 3 : les mesures sur le sites et les questionnaires
 
 {% embed url="https://vimeo.com/422380927" %}
 
+{% hint style="success" %}
+**Fiche récap** [**Tests utilisateurs**](https://docs.google.com/document/d/1NHrwlGVDvzoctdAWmkvXwswWrQi3e7k_diTRks_0Lxo/edit?usp=sharing) **à imprimer**
+{% endhint %}
 
+{% hint style="success" %}
+**Présentation** [**Tests utilisateurs « faits maison »**](https://docs.google.com/presentation/d/1YWMdMD__ZIEkRBo8UUpI9hVdjTbRhsIGfIF4fPQXbd0/edit?usp=sharing)  **pour s'auto-former à :**
+
+* préparer ses tests utilisateurs
+* tester dans de bonnes conditions
+* analyser les résultats.
+{% endhint %}
 
 ### Questions / Échanges <a id="Questions--&#xC9;changes"></a>
 
