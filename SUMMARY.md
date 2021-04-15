@@ -16,6 +16,7 @@
 ## Méthodes du design <a id="ressources"></a>
 
 * [📦 Boîte à outils UX](ressources/boite-a-outils-ux/README.md)
+  * [Introduction à l'UX Writing](ressources/boite-a-outils-ux/introduction-a-lux-writing.md)
   * [Auditer l'expérience utilisateur de son service](ressources/boite-a-outils-ux/auditer-lexperience-utilisateur-de-son-service.md)
   * [Écriture inclusive](ressources/boite-a-outils-ux/ecriture-inclusive.md)
   * [Mesurer l'UX avec un questionnaire](ressources/boite-a-outils-ux/mesurer-lux-avec-un-questionnaire.md)
