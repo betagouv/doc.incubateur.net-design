@@ -1,6 +1,6 @@
 ---
 description: >-
-  Cette formation donne  10 conseils facile à mettre en place pour vérifier
+  Cette formation donne 10 conseils faciles à mettre en place pour vérifier
   l'accessibilité de son service numérique
 ---
 
@@ -17,22 +17,22 @@ Retrouvez les 10 choses faciles à tester avec des exemples concrets \(des vrais
 Ces tests peuvent se faire facilement, sans compétences techniques :
 
 * directement dans le navigateur
-* avec[ le bookmarklet ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) qui s'installe sur tout les navigateurs, via un drag and drop dans la barre de raccourci
+* avec[ le bookmarklet ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) qui s'installe sur tous les navigateurs, via un drag and drop dans la barre de raccourcis
 * avec [le service en ligne WAVE](http://wave.webaim.org/) 
 
-Il existe de nombreux autres outils spécifiques, selon les préférences de chacun, mais ces 3 là permettent d'évaluer déjà un bon nombre de chose 🙂.
+Il existe de nombreux autres outils spécifiques, selon les préférences de chacun, mais ces 3 là permettent d'évaluer déjà un bon nombre de choses 🙂.
 
 | Test | Via le navigateur | Avec ANDI | Avec WAVE |
 | :--- | :--- | :--- | :--- |
 | 📄 Le titre des pages | ✅ | ✅ |  |
 | 🖼 Les alternatives aux images |  | ✅ | ✅ |
 | 📰 La hiérarchie de l’information |  | ✅ | ✅ |
-| 🌓 Les contraste des couleurs |  | ✅ | ✅ |
+| 🌓 Les contrastes des couleurs |  | ✅ | ✅ |
 | ✨ La personnalisation du texte | ✅ |  |  |
 | 🎹 La navigation au clavier | ✅ |  |  |
 | 📄 Les formulaires | ✅ | ✅ |  |
 | ▶️ Les contenus animés | ✅ |  |  |
-| 🎬 Les alternative aux médias | ✅ |  |  |
+| 🎬 Les alternatives aux médias | ✅ |  |  |
 | 📃 La structure des pages |  | ✅ | ✅ |
 
 **Pour aller plus loin** : [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/)
@@ -61,7 +61,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 
 ### 🖼 Les alternatives aux images
 
-**Les alternatives transmettent l'objectif de l’image :** ils sont lus par les lecteurs d’écrans \(ou ressenti sur une plage braille\). Parfois, ils sont affichés à la place de l'image quand la connexion est mauvaise.
+**Les alternatives transmettent l'objectif de l’image :** elles sont lues par les lecteurs d’écrans \(ou ressenties sur une plage braille\). Parfois, elles sont affichées à la place de l'image quand la connexion est mauvaise.
 
 {% hint style="info" %}
 **Elles vous remercieront :** les personnes utilisant un lecteur d’écran et celles ayant une connexion restreinte.
@@ -82,7 +82,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 
 ### 📰 La hiérarchie de l’information
 
-**La structure de la page est balisée** : certains éléments de textes sont important dans la page : ils sont mis en avant visuellement. Ils doivent l’être aussi dans le code via les balises dédiées.
+**La structure de la page est balisée** : certains éléments de textes sont importants dans la page : ils sont mis en avant visuellement. Ils doivent l’être aussi dans le code via les balises dédiées.
 
 {% hint style="info" %}
 **Elles vous remercieront :** les personnes qui naviguent au clavier, celles qui utilisent un lecteur d’écran, celles qui affichent le site sans style.
@@ -98,7 +98,7 @@ Il existe de nombreux autres outils spécifiques, selon les préférences de cha
 * ✅ Les textes mis en valeur visuellement sont bien marqués comme des titres.
 * ✅ La hiérarchie des titres a du sens.
 
-### 🌓 Les contraste des couleurs
+### 🌓 Les contrastes des couleurs
 
 **Les couleurs du site n’entravent pas la lecture :** certaines personnes ont besoin d'un contraste suffisant pour lire \(trouble de vision lié à la vieillesse par exemple\). D’autres ont besoin d’une faible luminance \(certains types de dyslexie\) ou… d’une luminance élevée.
 
@@ -143,7 +143,7 @@ Si le site est mal conçu, il devient inutilisable, ou le contenu illisible.
 
 **L'interface est utilisable sans souris :** certaines personnes utilisent le clavier ou la saisie vocale \(qui utilise des commandes clavier\).
 
-L’ensemble du contenu et des fonctionnalités doit donc être accessible via le clavier : liens, formulaires, pause/play sur les lecteurs médias, menus...
+L’ensemble du contenu et des fonctionnalités doit donc être accessible via le clavier : liens, formulaires, pause/play sur les lecteurs médias, menus…
 
 {% hint style="info" %}
 **Elles vous remercieront :** les personnes qui n’utilisent pas la souris \(aveugles, malvoyants, personnes souffrant de troubles moteurs…\)
@@ -162,11 +162,11 @@ Ce qu'il faut vérifier
 
 ### 📄 Les formulaires
 
-**Les formulaires sont balisés correctement :** un formulaire est composé de champs, qui doivent être correctement balisés pour pouvoir être rempli au clavier, par commande vocale ou via un lecteur d'écran.
+**Les formulaires sont balisés correctement :** un formulaire est composé de champs, qui doivent être correctement balisés pour pouvoir être remplis au clavier, par commande vocale ou via un lecteur d'écran.
 
-Les aides à la saisie et messages d’erreurs doivent être placés de manière pertinentes pour être visible \(et utile\) pour tous.
+Les aides à la saisie et messages d’erreurs doivent être placés de manière pertinentes pour être visibles \(et utiles\) pour tous.
 
-C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’impact 💪.
+C’est l’un des tests les plus compliqués mais aussi celui qui a le plus d’impact 💪.
 
 {% hint style="info" %}
 **Elles vous remercieront :** les personnes qui n’utilisent pas la souris, qui ont des problèmes de motricité, ou des troubles cognitifs ou d’apprentissage.
@@ -182,20 +182,20 @@ C’est l’un des tests le plus compliqué mais aussi celui qui a le plus d’i
 * ✅ Les champs ont un label \(et un clic sur le label active le champ\).
 * ✅ Les champs obligatoires sont indiqués \(pas seulement par la couleur rouge\).
 * ✅ Les instructions d'aide sont avant le champ concerné.
-* ✅ Les formats spécifiques \(par exemple les dates\) sont explicitées dans le label.
+* ✅ Les formats spécifiques \(par exemple les dates\) sont explicités dans le label.
 * ✅ Les erreurs sont explicites \(quel champ est concerné, comment corriger\).
 
 ### ▶️ Les contenus animés
 
 **Les animations ne perturbent pas la lecture :** les utilisateurs doivent pouvoir contrôler le contenu en mouvement :
 
-* Pour avoir le temps de traiter une information \(vidéo, carousel\)
+* Pour avoir le temps de traiter une information \(vidéo, carrousel\)
 * Pour pouvoir se concentrer sur le contenu sans être distrait par un élément.
 
 Plus spécifiquement, certains contenus clignotants peuvent déclencher une crise d’épilepsie chez certains personnes.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes troubles de l'attention, les personnes photosensibles ou épileptiques.
+**Elles vous remercieront :** les personnes souffrant de troubles de l'attention, les personnes photosensibles ou épileptiques.
 {% endhint %}
 
 #### Le test des animations
@@ -206,13 +206,13 @@ Plus spécifiquement, certains contenus clignotants peuvent déclencher une cris
 
 * ✅ Si des informations défilent ou bougent automatiquement, elles ne durent pas plus de 5 secondes, ou le mouvement peut être arrêté.
 * ✅ L’utilisateur peut mettre en pause ou cacher les mouvements.
-* ✅ L’utilisateur peut régler la fréquence de mise à jours des informations animées.
+* ✅ L’utilisateur peut régler la fréquence de mise à jour des informations animées.
 * ✅ Si des informations se mettent à jour en temps réel, l’utilisateur peut les mettre en pause ou contrôler la fréquence de mise à jour.
 * ✅ Aucun contenu ne clignote ou ne se met à clignoter plus de trois fois en une seconde.
 
-### 🎬 Les alternative aux médias
+### 🎬 Les alternatives aux médias
 
-**Les médias ont des alternatives :** les podcasts ou formats audios ne sont pas accessibles aux personnes sourdes ou malentendantes, sauf si fournies dans un format alternatif \(transcription par ex\).
+**Les médias ont des alternatives :** les podcasts ou formats audios ne sont pas accessibles aux personnes sourdes ou malentendantes, sauf si fournies dans un format alternatif \(transcription par exemple\).
 
 Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes aveugles ou malvoyantes, sauf si elles sont fournies dans un format alternatif tel que l'audio ou le texte.
 
@@ -226,9 +226,9 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 
 #### Ce qu'il faut vérifier :
 
-* ✅ Les contrôles du lecteurs vidéo/audio sont accessible au clavier.
+* ✅ Les contrôles du lecteurs vidéo/audio sont accessibles au clavier.
 * ✅ Le son ne démarre pas seul.
-* ✅ Les informations audios sont accessible au format texte \(sous-titres, transcript\).
+* ✅ Les informations audios sont accessibles au format texte \(sous-titres, transcript\).
 * ✅ Les informations visuelles sont accessibles au format texte ou au format audio \(audio description ou transcript\).
 
 ### 📃 La structure des pages
@@ -236,7 +236,7 @@ Les informations visuelles d’une vidéo ne sont pas accessibles aux personnes 
 **La page est linéaire** : tout le monde ne « voit » pas une page de la même manière. Un site a souvent une structure complexe visuellement \(sidebar, éléments graphiques...\) mais pour certains utilisateurs, il sera perçu de manière linéaire.
 
 {% hint style="info" %}
-**Elles vous remercieront :** les personnes utilisant un lecteur d’écran, une feuille de style personnalisée ou utilisant le site sur mobile.
+**Elles vous remercieront :** les personnes utilisant un lecteur d’écran, une feuille de styles personnalisée ou utilisant le site sur mobile.
 {% endhint %}
 
 #### Le test du site tout nu
