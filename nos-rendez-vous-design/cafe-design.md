@@ -5,7 +5,7 @@ description: >-
   utilisateurs.
 ---
 
-# ☕ Évènements Design
+# ☕ Événements Design
 
 ### À venir <a id="Caf&#xE9;sFormations-&#xE0;-venir"></a>
 
@@ -19,7 +19,4 @@ Retrouvez [nos prochains événements](https://airtable.com/shr2PwnQ61buXwLxP) :
 
 
 
-
-
 Un sujet vous intéresse ? Parlez-en à l'équipe dans la chaîne [**\#incubateur-team-designers-transverses**](https://startups-detat.slack.com/archives/C010EFL3EQ4)**.**
-
