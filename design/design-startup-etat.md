@@ -34,7 +34,7 @@ Pendant une heure, **deux designers expérimentés** vous proposent de vous éco
 
 ### Embarquer un·e designer transverse dans votre équipe 👋
 
-Écrivez nous sur le Slack dans la chaîne [**\#incubateur-designers-transverses**](https://startups-detat.slack.com/archives/C010EFL3EQ4) **:** l'un d'entre nous fera un point d'étape avec vous avant de vous proposer une intervention.
+Écrivez nous sur le Mattermost dans la chaîne [**\#incubateur-designers-transverses**](https://mattermost.incubateur.net/betagouv/channels/incubateur-team-designers-transverses) **:** l'un d'entre nous fera un point d'étape avec vous avant de vous proposer une intervention.
 
 **De l'aide sur un périmètre défini**
 
@@ -47,16 +47,10 @@ Un designer transverse ne peut pas se substituer à un designer que vous recrute
 
 ### Partager autour du design 😊
 
-Rejoignez [**\#domaine-design**](https://app.slack.com/client/T04C2PSNY/domaine-design), la chaîne partagée entre les différents incubateurs de betagouv pour :
+Rejoignez [**\#domaine-design**](https://mattermost.incubateur.net/betagouv/channels/domaine-design), la chaîne partagée entre les différents incubateurs de betagouv pour :
 
 * parler design 
 * partager votre veille 
 * parler de vos retours d'expérience
 * ...
-
-
-
-
-
-
 
