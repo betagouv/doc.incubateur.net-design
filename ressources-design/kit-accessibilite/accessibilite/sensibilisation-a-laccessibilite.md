@@ -140,7 +140,7 @@ L'accessibilité est un domaine qui s'apprend ! N'hésitez pas à vous faire acc
 
 * par des professionnels, via l'[accord du marché public](https://design.numerique.gouv.fr/accessibilite-numerique/accord-cadre-dae/)
 * en contactant le référent accessibilité du porteur de votre Startup d'État
-* en posant des questions sur le chan \#domaine-accessibilité du Slack de Beta.
+* en posant des questions sur le chan \#domaine-accessibilité du Mattermost de Beta.
 
 Merci de votre lecture et bonne chance dans votre chemin vers un service accessible à toutes et tous :\)  
 
