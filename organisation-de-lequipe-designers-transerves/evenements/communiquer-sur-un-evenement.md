@@ -7,7 +7,7 @@ description: >-
 # Communiquer sur un événement
 
 {% hint style="info" %}
-Le guive de la communauté propose aussi une documentation pour [annoncer un évènement](https://doc.incubateur.net/communaute/decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/annoncer-un-evenement).
+Le guide de la communauté propose aussi une documentation pour [annoncer un évènement](https://doc.incubateur.net/communaute/decouvrir-les-guides-des-autres-incubateurs/incubateur-de-la-dinum/annoncer-un-evenement).
 {% endhint %}
 
 ### Préparer l'événement <a id="Pr&#xE9;-requis"></a>
@@ -28,21 +28,21 @@ Il faut :
 * **Le jeudi précédent :** profiter du standup pour communiquer sur l’événement
   * à l’oral par la personne présente de l’équipe
   * dans la newsletter
-* **Quelques jours avant** \(par exemple lundi\) : pitcher par écrit l’événement sur Slack
+* **Quelques jours avant** \(par exemple lundi\) : pitcher par écrit l’événement sur Mattermost
 * **10 minutes avant l’événement** : redonner le lien de visio \(sans mentionner @ici ou @channel, sous peine de se faire taper sur les doigts !\)
 * **Après l’événement** :
   * publier le compte rendu / le support de présentation sur [Airtable](https://airtable.com/tblws3MSIdIiaP21L/viwXBykRjPJChGNHD?blocks=hide&date=2021-04-16&mode=month)
-  * communiquer sur le support sur Slack et/ou dans la newsletter
+  * communiquer sur le support sur Mattermost et/ou dans la newsletter
 
 ### Sur quels médias communiquer <a id="Sur-quels-m&#xE9;dias-communiquer"></a>
 
-#### Sur le slack <a id="Sur-le-slack"></a>
+#### Sur le Mattermost <a id="Sur-le-slack"></a>
 
-* Slack \#général : toute la communauté
-* Slack \#domaine-design : tous les membres intéréssés par le design \(y compris membres de la Fabrique Pôle Emploi, EIG, MTES, MAS\)
+* Mattermost \#général : toute la communauté
+* Mattermost \#domaine-design : tous les membres intéressés par le design \(y compris membres de la Fabrique Pôle Emploi, EIG, MTES, MAS\)
 
 {% hint style="warning" %}
-Tout le monde n’a pas accès au slack !
+Tout le monde n’a pas accès au Mattermost !
 {% endhint %}
 
 #### Par email <a id="Par-email"></a>
@@ -54,7 +54,7 @@ Tout le monde n’a pas accès au slack !
 
 #### Autres canaux de diffusion <a id="Autres-canaux-de-diffusion"></a>
 
-* Slack de La fabrique du numérique MTES \#général
+* Mattermost de La fabrique du numérique MTES \#général
 
 ### À quel public communiquer ? <a id="Standups-betagouv"></a>
 
