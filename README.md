@@ -4,6 +4,11 @@ description: "\U0001F9ED Pour trouver de l'aide sur le design"
 
 # Documentation Design
 
+{% hint style="warning" %}
+Cette documentation va bientôt disparaître.   
+Retrouvez-la sur la [documentation générale de betagouv.](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur)
+{% endhint %}
+
 ## Bienvenue sur la documentation Design de Beta Gouv
 
 Cette documentation propose des ressources à destination des Startup d'Etats.
